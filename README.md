@@ -24,7 +24,7 @@ AquaWatch SD transforms San Diego's raw water quality data into a clear, interac
 ## Data Sources
 | Dataset | Source | Usage |
 |---------|--------|-------|
-| Analyte Tests Effluent | [data.sandiego.gov](https://data.sandiego.gov/datasets/analyte-tests-effluent/) | Primary dataset — 9,431 readings, 14 analytes, 2016–2026 |
+| Analyte Tests Effluent | [https://data.sandiego.gov/datasets/monitoring-analytes-plant-effluent/] | Primary dataset — 9,431 readings, 14 analytes, 2016–2026 |
 | EPA MCL Reference Standards | US EPA | Threshold benchmarks for anomaly detection |
 
 ---
@@ -62,7 +62,7 @@ Claude AI API
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/aquawatch-sd.git
+git clone https://github.com/GudipatiPallavi/AquaWatch.git
 cd aquawatch-sd
 
 # 2. Install dependencies
@@ -99,10 +99,9 @@ When prompted, add `REACT_APP_ANTHROPIC_API_KEY` as an environment variable in t
 ---
 
 ## Links
-- **Live App:** _[Add your deployed URL here]_
-- **GitHub:** _[Add your public repo URL here]_
-- **Dataset:** https://data.sandiego.gov/datasets/analyte-tests-effluent/
-- **Demo Video:** _[Add your 60-second walkthrough link here]_
+- **GitHub:** _[(https://github.com/GudipatiPallavi/AquaWatch.git)]_
+- **Dataset:** https://data.sandiego.gov/datasets/monitoring-analytes-plant-effluent/
+- **Demo Video:** [ https://drive.google.com/file/d/115IyocF-Hf9ws3xD-Ikq-rtdOG0YqTzH/view?usp=sharing ]
 
 ---
 
