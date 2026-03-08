@@ -99,9 +99,9 @@ When prompted, add `REACT_APP_ANTHROPIC_API_KEY` as an environment variable in t
 ---
 
 ## Links
-- **GitHub:** _[(https://github.com/GudipatiPallavi/AquaWatch.git)]_
+- **GitHub:** _[(https://github.com/GudipatiPallavi/AquaWatch/tree/master)]_
 - **Dataset:** https://data.sandiego.gov/datasets/monitoring-analytes-plant-effluent/
-- **Demo Video:** [ https://drive.google.com/file/d/115IyocF-Hf9ws3xD-Ikq-rtdOG0YqTzH/view?usp=sharing ]
+- **Demo Video:** [ https://drive.google.com/file/d/1s2anB9zRsfbrpHhuMABENtTEKq4QYMie/view?usp=sharing ]
 
 ---
 
